@@ -6,7 +6,7 @@ my personal Vim config (with pathogen and plugins as git submodules)
 ## Installation
 
 ```
-$ git clone https://github.com/javierav/dotvim.git .vim
+$ git clone https://github.com/jc-gomez/dotvim.git .vim
 $ cd .vim
 $ git submodule update --init
 ```
