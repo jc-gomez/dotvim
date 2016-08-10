@@ -212,3 +212,11 @@ let g:vim_json_syntax_conceal = 0   " diable concealing
 "
 nmap <leader>ig :IndentLinesToggle<CR>
 nmap <C-e> :NERDTree<CR>
+
+
+"
+""Word wrapping 
+"
+set wrap
+set linebreak
+set nolist  " list disables linebreak
